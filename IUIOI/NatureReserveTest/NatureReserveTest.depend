@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1502420810 source:f:\important\olympiad\iuioi\naturereservetest\main.cpp
+	<sstream>
+	<cassert>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+	<iostream>
+	<iomanip>
+	<algorithm>
+	<vector>
+	<set>
+	<stack>
+	<map>
+	<string>
+	<queue>
+	<bitset>
+

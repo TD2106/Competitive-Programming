@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1512217450 source:f:\important\olympiad\practice code\practice3-graph\main.cpp
+	<bits/stdc++.h>
+	<ext/pb_ds/assoc_container.hpp>
+	<ext/pb_ds/tree_policy.hpp>
+
